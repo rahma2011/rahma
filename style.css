@@ -72,10 +72,12 @@ stroke: #4946B4;
   letter-spacing: 0%;
 
   margin-bottom: 30px;
-  color: rgb(134, 137, 137);  
+  color: #4c5866;  
 }
 
 /* section */
+
+
 
 .h2 {
   font-family: Roboto;
@@ -85,7 +87,8 @@ stroke: #4946B4;
   letter-spacing: 0%;
 
   margin-bottom: 30px;
-  color: rgb(134, 137, 137);
+  color: #4c5866;
+
 }
 .p-hero {
 font-family: Roboto;
