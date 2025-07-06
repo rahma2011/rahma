@@ -45,6 +45,10 @@
 stroke: #4946B4;
 }
 
+.scetchbook-img img {
+  width: 100%;
+}
+
 
 .header-link {
   text-decoration: none;
